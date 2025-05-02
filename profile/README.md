@@ -1,6 +1,6 @@
 # 🦥 Kinda Dumb, Mostly Helpful
 
-_**"Preparing to disappoint the tech community since 2024"**_
+_**"Preparing to disappoint the tech community since 2025"**_
 
 [![Organization Shield](https://img.shields.io/badge/Status-Brewing_Coffee_and_Chaos-6f42c1?style=for-the-badge)](https://github.com/KindaDumbMostlyHelpful)
 [![Project Readiness](https://img.shields.io/badge/Release_ETA-When_It's_Done-ff69b4)](https://xkcd.com/303/)
